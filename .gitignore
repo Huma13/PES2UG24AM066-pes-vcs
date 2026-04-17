@@ -16,5 +16,13 @@ test_tree
 *~
 .vscode/
 .idea/
+# Test/input files
+*.txt
 
+# Debug binaries
+pes_debug
+pes_asan
+
+# Temporary files
+tmp*
 
